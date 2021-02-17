@@ -12,7 +12,7 @@
             "value": "MCW"
         },
         "virtualMachineName": {
-            "value": "Server-miyazaki1"
+            "value": "miyazaki1"
         },
         "windowsOSVersion": {
             "value": "2019-Datacenter"
